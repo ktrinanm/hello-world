@@ -1,4 +1,4 @@
 # hello-world
 Ideas, "free-writing"
 
-I'm currently a Junior at a University, working towards graduation and an internship.
+I'm currently a Senior at a University, working towards graduation. I've completed an Amazon Internship.
